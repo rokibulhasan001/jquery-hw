@@ -1,0 +1,74 @@
+.dolor3{
+	 background: #dad;
+    font-weight: bold;
+}
+span{
+	 background: #def3ca;
+    padding: 3px;
+    float: left;
+}
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+#panel1, #flip1 {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#panel1{
+  padding: 50px;
+}
+
+
+#panel2, #flip2 {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#panel2 {
+  padding: 50px;
+  display: none;
+}
+section{
+    margin-bottom: 120px;
+}
+#section2{
+    margin-bottom: 200px;
+}
+#panela, #flipp {
+  padding: 5px;
+  font-size: 18px;
+  text-align: center;
+  background-color: #555;
+  color: white;
+  border: solid 1px #666;
+  border-radius: 3px;
+}
+
+#panela {
+  padding: 50px;
+  display: none;
+}
+.important {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.blue {
+  color: blue;
+}
+.blue1 {
+  color: blue;
+}
